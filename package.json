@@ -1,6 +1,6 @@
 {
   "name": "istanbul-reporter-raw-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reporter for istanbul <1.0 that dumps collector.getFinalCoverage() into coverage.raw.json, just like Istanbul 1.0 alpha. Useful for quickly reporting coverage from previously-generated results.",
   "main": "istanbul-reporter-raw-json.js",
   "scripts": {
