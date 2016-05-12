@@ -24,5 +24,8 @@
   "homepage": "https://github.com/lxe/istanbul-reporter-raw-json#readme",
   "devDependencies": {
     "istanbul": "^0.4.3"
+  },
+  "peerDependencies": {
+    "istanbul": "^0.4.3"
   }
 }
